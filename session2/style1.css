@@ -1,0 +1,17 @@
+p{
+	width: 100px;
+	height: 300px;
+	border: 10px solid red;
+	padding: 10px;
+	padding-top: 40px;
+	padding-left: 30px;
+
+	margin:60px;
+	margin-left: 200px;
+}
+div{
+	border: 5px dashed blue;
+}
+h1{
+	border: 5px dotted blue;
+}
